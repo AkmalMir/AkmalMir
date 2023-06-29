@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkmalMir
-- 👀 I’m interested in Machine Learning Projects
+- 👀 I’m interested in Data Science(DS) Projects
 - 🌱 I’m currently learning ML,DL
-- 💞️ I’m looking to collaborate on Social ML Projects
+- 💞️ I’m looking to collaborate on Social DS Projects
 - 📫 How to reach me https://www.linkedin.com/in/akmal-mirzaev/
 
 <!---
